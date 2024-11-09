@@ -2,7 +2,7 @@ package singleton_test
 
 import (
 	"fmt"
-	singleton "github.com/MagicGopher/go-design-pattern/01_singleton"
+	singleton "github.com/magicgopher/go-design-pattern/01_singleton"
 	"sync"
 	"testing"
 )

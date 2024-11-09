@@ -1,7 +1,7 @@
 package simplefactory_test
 
 import (
-	simplefactory "github.com/MagicGopher/go-design-pattern/02_simple_factory"
+	simplefactory "github.com/magicgopher/go-design-pattern/02_simple_factory"
 	"testing"
 )
 
