@@ -1,7 +1,7 @@
 package bridge_test
 
 import (
-	bridge "github.com/magicgopher/go-design-pattern/09_bridge"
+	bridge "github.com/magicgopher/go-design-pattern/10_bridge"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
