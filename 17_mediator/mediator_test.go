@@ -5,8 +5,9 @@ import (
 	"testing"
 )
 
-// 中介者模式单元测试
+// 单元测试
 
+// TestChatRoom 中介者模式单元测试
 func TestChatRoom(t *testing.T) {
 	chatRoom := mediator.NewChatRoom()
 
