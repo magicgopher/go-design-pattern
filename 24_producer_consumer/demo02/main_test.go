@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/magicgopher/go-design-pattern/24_producer_consumer/demo01/goods"
-	"github.com/magicgopher/go-design-pattern/24_producer_consumer/demo01/producer"
+	"github.com/magicgopher/go-design-pattern/24_producer_consumer/demo02/goods"
+	"github.com/magicgopher/go-design-pattern/24_producer_consumer/demo02/producer"
 	"testing"
 	"time"
 )
